@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: 0%;
+    border: none;
+}
+
+body{
+    margin: auto;
+    padding: 0%;
+    border: 10px;
+}
+
+.main{
+    margin: auto;
+    padding: 0%;
+    border: none;
+}
+
+.box{
+    padding: none;
+    background: #66d;
+}
+
